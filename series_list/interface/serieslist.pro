@@ -1,0 +1,3 @@
+TRANSLATIONS 	= serieslist_es.ts
+CODECFORTR      = UTF-8
+CODECFORSRC     = UTF-8
